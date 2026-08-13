@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "saraga-seo",
+  "owner": {
+    "name": "Saraga Marketing",
+    "url": "https://saragamarketing.com"
+  },
+  "description": "Herramientas SEO para Claude Code y Cowork, impulsadas por DataForSEO",
+  "version": "1.0.0",
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "seo-4-everyone",
+      "source": "./plugins/seo-4-everyone",
+      "description": "Suite SEO multicliente: agentes de contenido, backlinks, PageSpeed y Reddit impulsados por DataForSEO, con orquestador integral (seo-radar)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Saraga Marketing"
+      },
+      "category": "productivity",
+      "keywords": ["seo", "dataforseo", "contenido", "backlinks", "pagespeed", "reddit", "core-web-vitals"]
+    }
+  ]
+}
