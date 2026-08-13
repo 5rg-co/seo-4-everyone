@@ -11,11 +11,11 @@ Multicliente: todas las skills aceptan cualquier dominio, así que sirve tanto p
 En Claude Code:
 
 ```
-/plugin marketplace add saraga-marketing/seo-4-everyone
+/plugin marketplace add 5rg-co/seo-4-everyone
 /plugin install seo-4-everyone@saraga-seo
 ```
 
-Reemplaza `saraga-marketing/seo-4-everyone` por `usuario/repositorio` si has hecho un fork.
+Reemplaza `5rg-co/seo-4-everyone` por `usuario/repositorio` si has hecho un fork.
 
 ## Skills
 
